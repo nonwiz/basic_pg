@@ -16,6 +16,18 @@ Zoo Carer, add animal, view how many animals, different type, food
 Rock paper scissor
 
 ## Problem 5
+Find the biggest integer among three different numbers
 
+## Problem 6
+Reverse a word (String type)
+
+## Problem 7
+Check if an input integer number is a prime
+
+## Problem 8 - 
+Simple Login / Signup
+
+## Problem 9
+Remove duplicate word or phrase from the list
 
 
