@@ -1,10 +1,16 @@
 # Problem 2, Story telling
-
+# Require knowledge
+'''
+- list
+- replace
+- input
+- print
+- loop
+'''
 
 input_list = ['title', 'protagonist', 'secondary',  'secondary_wish', 'protagonist_statement', 'scenario'] 
 
 
-input_dict = dict()
 
 story = """
 title
