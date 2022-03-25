@@ -5,9 +5,16 @@ The fundamental concepts of computer programming like: variables, constants, arr
 
 ## Problem 1
 Make a hangman program
-'''
+
 When the program is run, a word from a list variable will be picked randomly. Then the program will create a variable substituting each character as __ for user to guess. By default there are 5 lives available for user to guess, each wrong guess will lost one live, when all lives lost,  the game will end. But if user able to guess the word correctly, the user will win.
-'''
+
+Required knowledge:
+- split
+- join
+- len
+- random.choice
+- while
+
 
 ## Problem 2
 Story telling base on choices
