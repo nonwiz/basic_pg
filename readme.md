@@ -19,6 +19,15 @@ Required knowledge:
 ## Problem 2
 Story telling base on choices
 
+Simple program that take user input and replace the input to appropriate place and display the storyline.
+
+Required knowledge:
+- for loop
+- list
+- replace
+- input
+
+
 ## Problem 3
 Zoo Carer, add animal, view how many animals, different type, food
 
