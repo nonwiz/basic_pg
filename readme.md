@@ -63,10 +63,18 @@ apple -> elppa
 ## Problem 7
 Check if an input integer number is a prime
 
+Ask user to input a number and return whether it is a prime number or not.
+
+
 ## Problem 8 - 
 Simple Login / Signup
 
+When the program is run, give users three options, one for login, another for signup, and last for exit. If the user enter login, the login should compared with the existing account. If user selected signup, the signup should ask basic information from user like name, username, and password, in which later on user can login with that credential.
+
+
 ## Problem 9
 Remove duplicate word or phrase from the list
+
+Consider having a list, just remove the duplicate and return back the list.
 
 
