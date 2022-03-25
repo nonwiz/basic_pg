@@ -13,7 +13,7 @@ Required knowledge:
 - join
 - len
 - random.choice
-- while
+- while loop
 
 
 ## Problem 2
@@ -29,16 +29,36 @@ Required knowledge:
 
 
 ## Problem 3
-Zoo Carer, add animal, view how many animals, different type, food
+Zoo Carer, add animal, view how many animals, different type, [food for each animal type, this is a bit advance...]
+
+When the program is run, there are several choices that provide to the user.
+1: To add the animal to the zoo: animal, quantity
+2: To view how many animal type and quantity
+3: Quit
+
 
 ## Problem 4
 Rock paper scissor
 
+When run the program, the program will be in a loop:
+0: Exit
+1: Rock
+2: Paper
+3: Scissor 
+The computer will be randomize before user input as well. Then returns the score.
+
 ## Problem 5
 Find the biggest integer among three different numbers
 
+Ask user three inputs, and return the biggest integer
+
 ## Problem 6
 Reverse a word (String type)
+
+Ask user to enter a word, then return in reverse. 
+Ex:
+
+apple -> elppa
 
 ## Problem 7
 Check if an input integer number is a prime
